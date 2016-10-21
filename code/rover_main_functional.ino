@@ -153,7 +153,13 @@ void loop()
 
     
     
-	/*	while(input == CameraLeft)
+	/*
+	this code should be added when the motors for camera controll are added. 
+	the buttons and code already exists in the website code, and should only be enabled here. 
+	*/
+	  /*
+	
+	while(input == CameraLeft)
 		{
 			digitalWrite(CameraA, HIGH);
       digitalWrite(CameraB, LOW);
